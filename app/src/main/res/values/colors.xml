@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00695C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="income">#2E7D32</color>
+    <color name="expense">#C62828</color>
+    <color name="offline_bg">#FFF3E0</color>
+    <color name="offline_text">#E65100</color>
+</resources>

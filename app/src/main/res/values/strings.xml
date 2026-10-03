@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alke Wallet</string>
+
+    <!-- Autenticación -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Repetir contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="register_button">Registrarme</string>
+    <string name="go_register">¿No tienes cuenta? Regístrate</string>
+    <string name="go_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Navegación -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_transactions">Movimientos</string>
+    <string name="nav_send">Enviar</string>
+
+    <!-- Inicio -->
+    <string name="avatar_description">Foto de perfil</string>
+    <string name="balance_label">Saldo disponible</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_confirm_title">¿Cerrar sesión?</string>
+    <string name="logout_confirm_message">Se eliminarán los datos guardados en este dispositivo.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="offline_banner">Sin conexión. Mostrando la última información guardada.</string>
+
+    <!-- Movimientos -->
+    <string name="transactions_title">Historial de transacciones</string>
+    <string name="transactions_empty">Aún no tienes transacciones.</string>
+    <string name="no_description">Sin descripción</string>
+
+    <!-- Enviar -->
+    <string name="send_title">Enviar dinero</string>
+    <string name="amount">Monto</string>
+    <string name="description_optional">Descripción (opcional)</string>
+    <string name="send_button">Enviar</string>
+</resources>
